@@ -4,7 +4,7 @@ Here are some images of my project:
 
 <div style="display: flex; justify-content: space-around;">
     <img src="https://raw.githubusercontent.com/GopalDixit/ReactNativeTinderApp/main/assessment1.jpg" alt="BasicTinderApp" width="300"/>
-    <img src="https://raw.githubusercontent.com/GopalDixit/ReactNativeTinderApp/main/assessment2.jpg" alt="BasicTinderApp" width="300"/>
+    <img src="https://raw.githubusercontent.com/GopalDixit/ReactNativeTinderApp/main/assessment2.jpg" alt="BasicTinderApp" width="300" marginLeft="15px"/>
     <img src="https://raw.githubusercontent.com/GopalDixit/ReactNativeTinderApp/main/assessment3.jpg" alt="BasicTinderApp" width="300"/>
 </div>
 
