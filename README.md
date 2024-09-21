@@ -2,13 +2,14 @@
 
 Here are some images of my project:
 
-
-<img src="https://raw.githubusercontent.com/GopalDixit/ReactNativeTinderApp/main/assessment1.jpg" alt="BasicTinderApp" width="300" style="display: inline;"/>
-<img src="https://raw.githubusercontent.com/GopalDixit/ReactNativeTinderApp/main/assessment2.jpg" alt="BasicTinderApp" width="300" style="display: inline;"/>
-<img src="https://raw.githubusercontent.com/GopalDixit/ReactNativeTinderApp/main/assessment3.jpg" alt="BasicTinderApp" width="300" style="display: inline;"/>
-
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://raw.githubusercontent.com/GopalDixit/ReactNativeTinderApp/main/assessment1.jpg" alt="BasicTinderApp" width="300"/>
+    <img src="https://raw.githubusercontent.com/GopalDixit/ReactNativeTinderApp/main/assessment2.jpg" alt="BasicTinderApp" width="300"/>
+    <img src="https://raw.githubusercontent.com/GopalDixit/ReactNativeTinderApp/main/assessment3.jpg" alt="BasicTinderApp" width="300"/>
+</div>
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
 
 # Getting Started
 
